@@ -43,7 +43,7 @@
 \contentsline {subsection}{\numberline {6.3}Distance determination}{24}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}Standard candles}{25}{subsection.6.4}%
 \contentsline {subsection}{\numberline {6.5}main sequence fitting}{25}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}variable stars}{26}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.6}Variable stars}{26}{subsection.6.6}%
 \contentsline {subsection}{\numberline {6.7}The main sequence}{27}{subsection.6.7}%
 \contentsline {subsection}{\numberline {6.8}Stellar evolution on the HRD}{28}{subsection.6.8}%
 \contentsline {subsection}{\numberline {6.9}Planetary nebulae}{30}{subsection.6.9}%

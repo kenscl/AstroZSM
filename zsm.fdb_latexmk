@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1706616091 "zsm.tex" "zsm.pdf" "zsm" 1706616092 0
+["pdflatex"] 1706634750 "zsm.tex" "zsm.pdf" "zsm" 1706634751 0
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1704400182 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1704400182 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1704400182 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -166,10 +166,10 @@
   "screenshot_2024-01-27-143129.png" 1706362293 127748 079c6eebe69884bab5c8ddbad5b727dc ""
   "screenshot_2024-01-27-143414.png" 1706362458 208993 be9a80bd23c542a1faccc227e021067e ""
   "screenshot_2024-01-28-133552.png" 1706445357 23608 58a83d122dbda61972285c45bed15503 ""
-  "zsm.aux" 1706616092 10762 682e5b72fd7e5d2644ade81ff0669232 "pdflatex"
-  "zsm.out" 1706616092 11235 ca9a67cde68f2a646f030dc113b8f18b "pdflatex"
-  "zsm.tex" 1706616090 81430 4f29770c23b16563b935fc1a709cedca ""
-  "zsm.toc" 1706616092 6711 ffacd1d35ac58abb39b789af678dd4ce "pdflatex"
+  "zsm.aux" 1706634750 10762 9cb517a106fa8bc0e1ff7c2955ffdd1c "pdflatex"
+  "zsm.out" 1706634750 11235 3437d7c7f32816f22e0481e89010a061 "pdflatex"
+  "zsm.tex" 1706634749 81443 3d77cf6ad472c69ed44e3bb11f081a4d ""
+  "zsm.toc" 1706634750 6711 3d4c5156bbc7bd8bd209d4861437c405 "pdflatex"
   (generated)
   "zsm.aux"
   "zsm.log"
