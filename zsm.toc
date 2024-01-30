@@ -1,0 +1,82 @@
+\contentsline {section}{\numberline {1}useful stuff}{4}{section.1}%
+\contentsline {section}{\numberline {2}Astronomical Principals}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Refraction}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Seeing}{4}{subsection.2.2}%
+\contentsline {paragraph}{Solutions}{4}{section*.2}%
+\contentsline {subsection}{\numberline {2.3}Atmospheric absorption}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}very-high-energy gamma-ray astronomy}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}The basics of telescopes}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Telescope types}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Diffraction}{7}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Angular resolution}{7}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Radio Telescopes}{7}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}X-Ray telescopes}{8}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Position on earth}{9}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}Horizon System}{9}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}Equatorial system}{10}{subsection.2.13}%
+\contentsline {section}{\numberline {3}Solar System}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Keplers Laws}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Three body Problem}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Precession and Nutation}{13}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}N-Body systems}{13}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Comets}{14}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}solar Corona}{14}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Planets}{14}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Stars}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Distances}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Luminosity}{15}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Temperature}{16}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Spectral lines}{16}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Double stars}{16}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Mass-Luminosity Relation}{17}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Variable Stars}{17}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}The inner structure of stars}{19}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Nuclear fusion}{22}{subsection.4.9}%
+\contentsline {section}{\numberline {5}Stellar evolution}{22}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Dynamical Timescale}{22}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Kelvin-Helmholtz Time Scale}{22}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Nuclear Time scale}{22}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Stellar Birth}{22}{subsection.5.4}%
+\contentsline {section}{\numberline {6}The expansion of the universe}{24}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Structure of the milky way}{24}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Expansion}{24}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Distance determination}{24}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Standard candles}{25}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}main sequence fitting}{25}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}variable stars}{26}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}The main sequence}{27}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Stellar evolution on the HRD}{28}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Planetary nebulae}{30}{subsection.6.9}%
+\contentsline {section}{\numberline {7}Supernovae}{32}{section.7}%
+\contentsline {subsection}{\numberline {7.1}End stages of stars}{33}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Neutron Stars}{33}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Black hole X-ray binaries}{34}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Galaxies}{35}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Observational problems}{35}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}The Hubble classification}{35}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Elipticals}{36}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Spirals}{37}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Irregular Galaxies}{37}{subsubsection.8.2.3}%
+\contentsline {subsubsection}{\numberline {8.2.4}Spectra}{37}{subsubsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.3}Dynamics}{38}{subsection.8.3}%
+\contentsline {paragraph}{Hyperfine transitions}{38}{section*.3}%
+\contentsline {subsection}{\numberline {8.4}Spiral patterns}{39}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Dynamics of elliptical galaxies}{41}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}MACHOS}{41}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Nonbaryonic matter}{41}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}Active galactic Nuclei}{42}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}Apparent super luminous motion}{44}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}AGN jets}{45}{subsection.8.10}%
+\contentsline {section}{\numberline {9}Large scale structures}{46}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Local group}{46}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Galaxy interactions}{46}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Red shift surveys}{47}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Cosmology}{48}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Expansion}{49}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Homogeneity}{49}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Isotropy}{49}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Comoving coordinates}{50}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Friedmann Equations}{50}{subsection.10.5}%
+\contentsline {section}{\numberline {11}Hot Big bang}{52}{section.11}%
+\contentsline {section}{\numberline {12}Determining $\Omega $}{54}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Determining $\Omega _M$}{54}{subsection.12.1}%
