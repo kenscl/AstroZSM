@@ -61,7 +61,7 @@
 
 \section{useful stuff}
 \begin{align*}
-    1 W &= 10^7 \frac {erg} s \\
+    1 W = 1 \frac J s &= 10^7 \frac {erg} s \\
     1'' &= \frac \pi {180 \cdot 3600}\\ 
     d &= \frac 1 p \\
 \end{align*}
@@ -83,7 +83,7 @@ Refractive index:
 Refraction also depends on wavelength/frequency.
 \subsection{Seeing}
 Turbulence causes the density and temperature to shift stochastically $\rightarrow$ path of light is distorted.
-\begin{center}[ht!]
+\begin{center}
     \includegraphics[width=\linewidth]{screenshot_2024-01-12-192223.png}
 \end{center}
 \paragraph{Solutions}
@@ -95,7 +95,7 @@ Turbulence causes the density and temperature to shift stochastically $\rightarr
 wave-front distortions of a bright star in the FoV or an artificial guide star (laser).
 \end{itemize}
 \subsection{Atmospheric absorption}
-\begin{center}[ht!]
+\begin{center}
     \includegraphics[width=\linewidth]{screenshot_2024-01-12-190242.png}
 \end{center}
 $\rightarrow$ two main windows: Optical, Radio
@@ -140,18 +140,18 @@ There are two main types of telescopes.
     \item Reflectors: using Mirrors  \\ 
         Diameter of up to 10 m.
 \end{itemize}
-\begin{center}[ht!]
+\begin{center}
     \includegraphics[width=\linewidth]{screenshot_2024-01-13-191726.png}
     \text{Focal length f}
 \end{center}
 Mirrors have to be parabolic to focus light into one point.
 This isnt the case with Schmidt telescopes.
 They use a spherical mirror with a correction plate to correct spherical aberration and are used to conduct surveys due to their larger fov.
-\begin{center}[ht!]
+\begin{center}
     \includegraphics[width=\linewidth]{screenshot_2024-01-13-192049.png}
     \text{Newtonian telescope (reflector)}
 \end{center}
-\begin{center}[ht!]
+\begin{center}
     \includegraphics[width=\linewidth]{screenshot_2024-01-13-192236.png}
     \text{Cassegrian Telescope, can be shorter than Newtonian, usually used nowadays}
 \end{center}
@@ -215,12 +215,19 @@ Two coordinates to define a direction:
 Azimuth A: angle SWNE and Altitude h angle towards zenith (or zenith distance 90deg - h). 
 \subsection{Equatorial system}
 \begin{center}
-    \includegraphics[width=0.6\linewidth]{screenshot_2024-01-13-202353.png}\\
+    \includegraphics[width=0.6\linewidth]{screenshot_2024-02-01-193500.png}\\
 \end{center}
 $\alpha$ right ascension, distance from vernal equinox to star \\ 
 t hour angle measured from south to west depends on location on earth and time.
 $\delta$ Declination angle from equator to star(Moving Equatorial system). 
-Siderial time ?
+
+Siderial time: \\
+0 h siderial time = time
+when vernal equinox
+passes through meridian.
+
+The local siderial time is the time that the right ascension of a star passes through a meridian. 
+Right ascension is measured in hours minutes and seconds. 
 \section{Solar System}
 \begin{align*}
     \vec F &= -Gm_1m_2 \frac {\vec r } {r^3} \\ 
@@ -654,7 +661,7 @@ In the case of the sun about $3 \cdot 10 ^7$ Years.
 Assume constant burning rate. How long does it take for the star to exhaust its
 supply of nuclear fuel?
 \begin{align*}
-    t_{nuc} &= \frac {E_{nuc} }{L} = \frac {qXM \cdot 6 \cdot 10^{18} erg/g}{L} = \frac M L \frac {M_\odot}{L_\odot} \cdot 7 \cdot 10^9 yr
+    t_{nuc} &= \frac {E_{nuc} }{L} = \frac {qXM \cdot 6 \cdot 10^{18} erg/g}{L} = \frac {\frac M {M_\mathSun}}  {\frac {L}{L_\odot}} \cdot 7 \cdot 10^9 yr
 \end{align*}
 for the sun this is around $ 7 \cdot 10 ^9 $ years. \\
 X: mass fraction of H initially present; q fraction of fuel that actually gets burned
@@ -784,7 +791,7 @@ Certain regions of the HRD are unstable and therefore produce variable stars:
 \end{center}
 The most important variable stars are: 
 \begin{itemize}
-    \item RR Lyrae, I \\ 
+    \item RR Lyrae\\ 
         These are mainly found in globular clusters due to lower metalicyty of the clusters.
         Period of 0.2 to 1 days, mainly changes in temperature\\ 
         Absolute magnitude of RR Lyare gap between 0.6-0.8 mag $\sim$ 50 $L_\odot$ \\
@@ -809,12 +816,14 @@ Other standard candles include:
 After corrections of systematic affects and time dilation all type 1a supernovae have the same light curves.
 They occur when white dwarf are pushed over the Chandrasekhar limit of 1.4 Solar masses.
 They have a very characteristic light curve with a fast rise, rapid fall and exponential decay with a halftime of 60 days.
-Calibration: SNe Ia in nearby galaxies where Cepheid distances known
-Observable to up to 1GPc or grater.
+
+Calibration: \\SNe Ia in nearby galaxies where Cepheid distances known
+Observable to up to 1GPc or greater.
 \end{itemize}
 
 \subsection{The main sequence}
-Once star has collapsed and nuclear fusion has started, i.e., after a few Million years: zero age main sequence
+Once star has collapsed and nuclear fusion has started, i.e., after a few Million years: zero age main sequence.
+
 The main sequence is the result of most stars burning Hydrogen into helium for the longest part of their existence.
 The time spend on the main sequence depends on the stellar mass and is shorter for larger stars.
 \begin{center}
@@ -972,10 +981,10 @@ This supports the core collapse model. (for more see slides)
 Generally stars end up as compact objects. 
 \begin{itemize}
     \item white dwarf: \\ 
-    $\rho$ of $10^5$ to $10^6$ $gcm^{-3}$, R ~ $R_\mathTerra$, In equilibrium between gravitation and degenerate pressure of electrons
+    $\rho$ of $10^5$ to $10^6$ $gcm^{-3}$, R $\sim R_\mathTerra$, In equilibrium between gravitation and degenerate pressure of electrons
     M $<$ 1.44 $M_\mathSun$ (Chandrasekhar-Limit)
 \item Neutron star:  \\ 
-    $\rho$ of $10^{13}$ to $10^{16}$ $gcm^{-3}$, R ~ 10 km, In equilibrium between strong interactions and degenerate pressure of neutrons
+    $\rho$ of $10^{13}$ to $10^{16}$ $gcm^{-3}$, R $\sim$ 10 km, In equilibrium between strong interactions and degenerate pressure of neutrons
    1.44 $<$ M $<$ 3 $M_\mathSun$ (Oppenheimer-Volkoff Limit)
 \item Black hole: \\ 
     3 $M_\mathSun$$<$ M, No stable state  is known, event horizon at $3 \frac M M_\mathSun$ km
@@ -1013,12 +1022,12 @@ This leads to the conclusion that pulsars are quickly rotating neutron stars wit
 
 \subsection{Black hole X-ray binaries}
 Matter flows from a companion star via Lagrange point L1 onto compact object.
-This leads to the forming of a accretion disk and loads of X-ray and $\gamma$ ray radiation.
+This leads to the forming of an accretion disk and loads of X-ray and $\gamma$ ray radiation.
 \begin{center}
     \includegraphics[width=0.5\linewidth]{screenshot_2024-01-24-113302.png}
 \end{center}
 green: Hard X-rays, Thompson scattering in accretion disk leads to Compton Reflection Hump
-red: Comptonisation of soft X-rays in a hot plasma (T ~ $10^8$ K): power-law spectrum.
+red: Comptonisation of soft X-rays in a hot plasma (T $\sim$ $10^8$ K): power-law spectrum.
 blue: Photon absorption of Hard X-Rays in the disk leads to Fe, K$\alpha$ lines. 
 The Fe, K$\alpha$ spectrum is influenced by:
 \begin{itemize}
@@ -1064,7 +1073,7 @@ The only type not present in the scheme are the cD galaxies which are the larges
 \subsubsection{Elipticals}
 The early types are defined by: 
 \begin{align*}
-    x = 10 \frac {(1-b)}{a}
+    x = 10 \frac {(a-b)}{a}
 \end{align*}
 This then is converted into a integer.
 We however cant distinguish between the types as they depend on the angle.
