@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.28)  2 FEB 2024 17:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.28)  5 FEB 2024 13:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -510,212 +510,213 @@ Package pdftex.def Info: screenshot_2024-01-21-180043.png  used on input line 56
 <screenshot_2024-01-21-194512.png, id=552, 349.305pt x 454.69875pt>
 File: screenshot_2024-01-21-194512.png Graphic file (type png)
 <use screenshot_2024-01-21-194512.png>
-Package pdftex.def Info: screenshot_2024-01-21-194512.png  used on input line 702.
+Package pdftex.def Info: screenshot_2024-01-21-194512.png  used on input line 703.
 (pdftex.def)             Requested size: 221.93149pt x 288.897pt.
  [23 <./screenshot_2024-01-21-194512.png (PNG copy)>]
-<screenshot_2024-01-23-105305.png, id=557, 477.785pt x 436.63126pt>
+<screenshot_2024-01-23-105305.png, id=558, 477.785pt x 436.63126pt>
 File: screenshot_2024-01-23-105305.png Graphic file (type png)
 <use screenshot_2024-01-23-105305.png>
-Package pdftex.def Info: screenshot_2024-01-23-105305.png  used on input line 725.
+Package pdftex.def Info: screenshot_2024-01-23-105305.png  used on input line 726.
 (pdftex.def)             Requested size: 221.93149pt x 202.81157pt.
  [24 <./screenshot_2024-01-23-105305.png (PNG copy)>]
-<screenshot_2024-01-23-112801.png, id=563, 468.75125pt x 474.77374pt>
+<screenshot_2024-01-23-112801.png, id=564, 468.75125pt x 474.77374pt>
 File: screenshot_2024-01-23-112801.png Graphic file (type png)
 <use screenshot_2024-01-23-112801.png>
-Package pdftex.def Info: screenshot_2024-01-23-112801.png  used on input line 785.
+Package pdftex.def Info: screenshot_2024-01-23-112801.png  used on input line 786.
 (pdftex.def)             Requested size: 221.93149pt x 224.78093pt.
- [25 <./screenshot_2024-01-23-112801.png (PNG copy)>]
-<screenshot_2024-01-23-113048.png, id=569, 458.71375pt x 413.545pt>
+ [25]
+<screenshot_2024-01-23-113048.png, id=570, 458.71375pt x 413.545pt>
 File: screenshot_2024-01-23-113048.png Graphic file (type png)
 <use screenshot_2024-01-23-113048.png>
-Package pdftex.def Info: screenshot_2024-01-23-113048.png  used on input line 790.
+Package pdftex.def Info: screenshot_2024-01-23-113048.png  used on input line 791.
 (pdftex.def)             Requested size: 221.93149pt x 200.07687pt.
-<screenshot_2024-01-23-113927.png, id=570, 700.6175pt x 417.56pt>
+<screenshot_2024-01-23-113927.png, id=571, 700.6175pt x 417.56pt>
 File: screenshot_2024-01-23-113927.png Graphic file (type png)
 <use screenshot_2024-01-23-113927.png>
-Package pdftex.def Info: screenshot_2024-01-23-113927.png  used on input line 802.
+Package pdftex.def Info: screenshot_2024-01-23-113927.png  used on input line 803.
 (pdftex.def)             Requested size: 208.24396pt x 124.10934pt.
-<screenshot_2024-01-23-114223.png, id=571, 359.3425pt x 254.9525pt>
+ [26 <./screenshot_2024-01-23-112801.png (PNG copy)> <./screenshot_2024-01-23-113048.png (PNG copy)>]
+<screenshot_2024-01-23-114223.png, id=576, 359.3425pt x 254.9525pt>
 File: screenshot_2024-01-23-114223.png Graphic file (type png)
 <use screenshot_2024-01-23-114223.png>
-Package pdftex.def Info: screenshot_2024-01-23-114223.png  used on input line 814.
+Package pdftex.def Info: screenshot_2024-01-23-114223.png  used on input line 815.
 (pdftex.def)             Requested size: 208.24396pt x 147.75194pt.
- [26 <./screenshot_2024-01-23-113048.png (PNG copy)> <./screenshot_2024-01-23-113927.png (PNG copy)>]
-<screenshot_2024-01-23-115246.png, id=576, 917.4275pt x 466.74374pt>
+<screenshot_2024-01-23-115246.png, id=577, 917.4275pt x 466.74374pt>
 File: screenshot_2024-01-23-115246.png Graphic file (type png)
 <use screenshot_2024-01-23-115246.png>
-Package pdftex.def Info: screenshot_2024-01-23-115246.png  used on input line 830.
+Package pdftex.def Info: screenshot_2024-01-23-115246.png  used on input line 831.
 (pdftex.def)             Requested size: 221.93149pt x 112.9039pt.
-<screenshot_2024-01-23-115334.png, id=577, 524.96124pt x 336.25626pt>
+ [27 <./screenshot_2024-01-23-113927.png (PNG copy)> <./screenshot_2024-01-23-114223.png (PNG copy)>]
+<screenshot_2024-01-23-115334.png, id=582, 524.96124pt x 336.25626pt>
 File: screenshot_2024-01-23-115334.png Graphic file (type png)
 <use screenshot_2024-01-23-115334.png>
-Package pdftex.def Info: screenshot_2024-01-23-115334.png  used on input line 833.
+Package pdftex.def Info: screenshot_2024-01-23-115334.png  used on input line 834.
 (pdftex.def)             Requested size: 221.93149pt x 142.15535pt.
- [27 <./screenshot_2024-01-23-114223.png (PNG copy)> <./screenshot_2024-01-23-115246.png (PNG copy)> <./screenshot_2024-01-23-115334.png (PNG copy)>]
-<screenshot_2024-01-23-122838.png, id=582, 438.63875pt x 338.26375pt>
+<screenshot_2024-01-23-122838.png, id=583, 438.63875pt x 338.26375pt>
 File: screenshot_2024-01-23-122838.png Graphic file (type png)
 <use screenshot_2024-01-23-122838.png>
-Package pdftex.def Info: screenshot_2024-01-23-122838.png  used on input line 862.
+Package pdftex.def Info: screenshot_2024-01-23-122838.png  used on input line 863.
 (pdftex.def)             Requested size: 221.93149pt x 171.14958pt.
-<screenshot_2024-01-23-123306.png, id=583, 772.8875pt x 276.03125pt>
+ [28 <./screenshot_2024-01-23-115246.png (PNG copy)> <./screenshot_2024-01-23-115334.png (PNG copy)>]
+<screenshot_2024-01-23-123306.png, id=588, 772.8875pt x 276.03125pt>
 File: screenshot_2024-01-23-123306.png Graphic file (type png)
 <use screenshot_2024-01-23-123306.png>
-Package pdftex.def Info: screenshot_2024-01-23-123306.png  used on input line 869.
+Package pdftex.def Info: screenshot_2024-01-23-123306.png  used on input line 870.
 (pdftex.def)             Requested size: 221.93149pt x 79.25938pt.
- [28 <./screenshot_2024-01-23-122838.png (PNG copy)>]
-<screenshot_2024-01-23-123659.png, id=588, 585.18625pt x 380.42125pt>
+<screenshot_2024-01-23-123659.png, id=589, 585.18625pt x 380.42125pt>
 File: screenshot_2024-01-23-123659.png Graphic file (type png)
 <use screenshot_2024-01-23-123659.png>
-Package pdftex.def Info: screenshot_2024-01-23-123659.png  used on input line 878.
+Package pdftex.def Info: screenshot_2024-01-23-123659.png  used on input line 879.
 (pdftex.def)             Requested size: 221.93149pt x 144.27713pt.
-<screenshot_2024-01-23-125357.png, id=589, 513.92pt x 529.98pt>
+ [29 <./screenshot_2024-01-23-122838.png (PNG copy)> <./screenshot_2024-01-23-123306.png (PNG copy)> <./screenshot_2024-01-23-123659.png (PNG copy)>]
+<screenshot_2024-01-23-125357.png, id=594, 513.92pt x 529.98pt>
 File: screenshot_2024-01-23-125357.png Graphic file (type png)
 <use screenshot_2024-01-23-125357.png>
-Package pdftex.def Info: screenshot_2024-01-23-125357.png  used on input line 900.
+Package pdftex.def Info: screenshot_2024-01-23-125357.png  used on input line 901.
 (pdftex.def)             Requested size: 221.93149pt x 228.86545pt.
- [29 <./screenshot_2024-01-23-123306.png (PNG copy)> <./screenshot_2024-01-23-123659.png (PNG copy)>]
-<screenshot_2024-01-23-125721.png, id=594, 508.90125pt x 526.96875pt>
+<screenshot_2024-01-23-125721.png, id=595, 508.90125pt x 526.96875pt>
 File: screenshot_2024-01-23-125721.png Graphic file (type png)
 <use screenshot_2024-01-23-125721.png>
-Package pdftex.def Info: screenshot_2024-01-23-125721.png  used on input line 906.
+Package pdftex.def Info: screenshot_2024-01-23-125721.png  used on input line 907.
 (pdftex.def)             Requested size: 221.93149pt x 229.80849pt.
-<screenshot_2024-01-23-125950.png, id=595, 505.89pt x 531.9875pt>
+ [30 <./screenshot_2024-01-23-125357.png (PNG copy)> <./screenshot_2024-01-23-125721.png (PNG copy)>]
+<screenshot_2024-01-23-125950.png, id=600, 505.89pt x 531.9875pt>
 File: screenshot_2024-01-23-125950.png Graphic file (type png)
 <use screenshot_2024-01-23-125950.png>
-Package pdftex.def Info: screenshot_2024-01-23-125950.png  used on input line 913.
+Package pdftex.def Info: screenshot_2024-01-23-125950.png  used on input line 914.
 (pdftex.def)             Requested size: 221.93149pt x 233.38524pt.
- [30 <./screenshot_2024-01-23-125357.png (PNG copy)> <./screenshot_2024-01-23-125721.png (PNG copy)>]
-<screenshot_2024-01-23-131219.png, id=600, 573.14125pt x 321.2pt>
+<screenshot_2024-01-23-131219.png, id=601, 573.14125pt x 321.2pt>
 File: screenshot_2024-01-23-131219.png Graphic file (type png)
 <use screenshot_2024-01-23-131219.png>
-Package pdftex.def Info: screenshot_2024-01-23-131219.png  used on input line 929.
+Package pdftex.def Info: screenshot_2024-01-23-131219.png  used on input line 930.
 (pdftex.def)             Requested size: 221.93149pt x 124.37549pt.
  [31 <./screenshot_2024-01-23-125950.png (PNG copy)> <./screenshot_2024-01-23-131219.png (PNG copy)>]
-<screenshot_2024-01-24-104355.png, id=607, 717.68124pt x 552.0625pt>
+<screenshot_2024-01-24-104355.png, id=608, 717.68124pt x 552.0625pt>
 File: screenshot_2024-01-24-104355.png Graphic file (type png)
 <use screenshot_2024-01-24-104355.png>
-Package pdftex.def Info: screenshot_2024-01-24-104355.png  used on input line 953.
+Package pdftex.def Info: screenshot_2024-01-24-104355.png  used on input line 954.
 (pdftex.def)             Requested size: 221.93149pt x 170.71642pt.
-<screenshot_2024-01-24-105703.png, id=608, 1048.91875pt x 517.935pt>
+ [32 <./screenshot_2024-01-24-104355.png (PNG copy)>]
+<screenshot_2024-01-24-105703.png, id=613, 1048.91875pt x 517.935pt>
 File: screenshot_2024-01-24-105703.png Graphic file (type png)
 <use screenshot_2024-01-24-105703.png>
-Package pdftex.def Info: screenshot_2024-01-24-105703.png  used on input line 974.
+Package pdftex.def Info: screenshot_2024-01-24-105703.png  used on input line 975.
 (pdftex.def)             Requested size: 399.47397pt x 197.252pt.
- [32 <./screenshot_2024-01-24-104355.png (PNG copy)>] [33 <./screenshot_2024-01-24-105703.png (PNG copy)>]
-<screenshot_2024-01-24-113302.png, id=617, 491.8375pt x 351.3125pt>
+ [33 <./screenshot_2024-01-24-105703.png (PNG copy)>]
+<screenshot_2024-01-24-113302.png, id=618, 491.8375pt x 351.3125pt>
 File: screenshot_2024-01-24-113302.png Graphic file (type png)
 <use screenshot_2024-01-24-113302.png>
-Package pdftex.def Info: screenshot_2024-01-24-113302.png  used on input line 1027.
+Package pdftex.def Info: screenshot_2024-01-24-113302.png  used on input line 1028.
 (pdftex.def)             Requested size: 221.93149pt x 158.52336pt.
-<screenshot_2024-01-24-120045.png, id=618, 971.63pt x 532.99126pt>
+ [34 <./screenshot_2024-01-24-113302.png (PNG copy)>]
+<screenshot_2024-01-24-120045.png, id=623, 971.63pt x 532.99126pt>
 File: screenshot_2024-01-24-120045.png Graphic file (type png)
 <use screenshot_2024-01-24-120045.png>
-Package pdftex.def Info: screenshot_2024-01-24-120045.png  used on input line 1049.
+Package pdftex.def Info: screenshot_2024-01-24-120045.png  used on input line 1050.
 (pdftex.def)             Requested size: 443.86299pt x 243.4792pt.
- [34 <./screenshot_2024-01-24-113302.png (PNG copy)>]
-<screenshot_2024-01-24-120628.png, id=623, 926.46124pt x 681.54625pt>
+<screenshot_2024-01-24-120628.png, id=624, 926.46124pt x 681.54625pt>
 File: screenshot_2024-01-24-120628.png Graphic file (type png)
 <use screenshot_2024-01-24-120628.png>
-Package pdftex.def Info: screenshot_2024-01-24-120628.png  used on input line 1068.
+Package pdftex.def Info: screenshot_2024-01-24-120628.png  used on input line 1069.
 (pdftex.def)             Requested size: 355.09174pt x 261.22617pt.
  [35 <./screenshot_2024-01-24-120045.png (PNG copy)>] [36 <./screenshot_2024-01-24-120628.png (PNG copy)>]
-<screenshot_2024-01-24-123415.png, id=632, 985.6825pt x 329.23pt>
+<screenshot_2024-01-24-123415.png, id=633, 985.6825pt x 329.23pt>
 File: screenshot_2024-01-24-123415.png Graphic file (type png)
 <use screenshot_2024-01-24-123415.png>
-Package pdftex.def Info: screenshot_2024-01-24-123415.png  used on input line 1152.
+Package pdftex.def Info: screenshot_2024-01-24-123415.png  used on input line 1153.
 (pdftex.def)             Requested size: 355.09174pt x 118.60307pt.
  [37 <./screenshot_2024-01-24-123415.png (PNG copy)>]
-<screenshot_2024-01-26-124045.png, id=638, 465.74pt x 274.02374pt>
+<screenshot_2024-01-26-124045.png, id=639, 465.74pt x 274.02374pt>
 File: screenshot_2024-01-26-124045.png Graphic file (type png)
 <use screenshot_2024-01-26-124045.png>
-Package pdftex.def Info: screenshot_2024-01-26-124045.png  used on input line 1167.
+Package pdftex.def Info: screenshot_2024-01-26-124045.png  used on input line 1168.
 (pdftex.def)             Requested size: 355.09174pt x 208.9292pt.
-<screenshot_2024-01-26-124214.png, id=639, 758.835pt x 407.5225pt>
+<screenshot_2024-01-26-124214.png, id=640, 758.835pt x 407.5225pt>
 File: screenshot_2024-01-26-124214.png Graphic file (type png)
 <use screenshot_2024-01-26-124214.png>
-Package pdftex.def Info: screenshot_2024-01-26-124214.png  used on input line 1171.
+Package pdftex.def Info: screenshot_2024-01-26-124214.png  used on input line 1172.
 (pdftex.def)             Requested size: 355.09174pt x 190.70235pt.
  [38 <./screenshot_2024-01-26-124045.png (PNG copy)> <./screenshot_2024-01-26-124214.png (PNG copy)>]
-<screenshot_2024-01-26-135659.png, id=645, 305.14pt x 400.49625pt>
+<screenshot_2024-01-26-135659.png, id=646, 305.14pt x 400.49625pt>
 File: screenshot_2024-01-26-135659.png Graphic file (type png)
 <use screenshot_2024-01-26-135659.png>
-Package pdftex.def Info: screenshot_2024-01-26-135659.png  used on input line 1217.
+Package pdftex.def Info: screenshot_2024-01-26-135659.png  used on input line 1218.
 (pdftex.def)             Requested size: 133.16025pt x 174.77667pt.
  [39 <./screenshot_2024-01-26-135659.png (PNG copy)>]
-<screenshot_2024-01-26-140627.png, id=650, 441.65pt x 191.71625pt>
+<screenshot_2024-01-26-140627.png, id=651, 441.65pt x 191.71625pt>
 File: screenshot_2024-01-26-140627.png Graphic file (type png)
 <use screenshot_2024-01-26-140627.png>
-Package pdftex.def Info: screenshot_2024-01-26-140627.png  used on input line 1227.
+Package pdftex.def Info: screenshot_2024-01-26-140627.png  used on input line 1228.
 (pdftex.def)             Requested size: 266.3205pt x 115.61278pt.
-<screenshot_2024-01-26-141350.png, id=651, 186.6975pt x 437.635pt>
+<screenshot_2024-01-26-141350.png, id=652, 186.6975pt x 437.635pt>
 File: screenshot_2024-01-26-141350.png Graphic file (type png)
 <use screenshot_2024-01-26-141350.png>
-Package pdftex.def Info: screenshot_2024-01-26-141350.png  used on input line 1241.
+Package pdftex.def Info: screenshot_2024-01-26-141350.png  used on input line 1242.
 (pdftex.def)             Requested size: 133.16025pt x 312.15205pt.
  [40 <./screenshot_2024-01-26-140627.png (PNG copy)> <./screenshot_2024-01-26-141350.png (PNG copy)>]
-<screenshot_2024-01-26-145556.png, id=656, 740.7675pt x 313.17pt>
+<screenshot_2024-01-26-145556.png, id=657, 740.7675pt x 313.17pt>
 File: screenshot_2024-01-26-145556.png Graphic file (type png)
 <use screenshot_2024-01-26-145556.png>
-Package pdftex.def Info: screenshot_2024-01-26-145556.png  used on input line 1293.
+Package pdftex.def Info: screenshot_2024-01-26-145556.png  used on input line 1294.
 (pdftex.def)             Requested size: 355.09174pt x 150.11919pt.
  [41] [42 <./screenshot_2024-01-26-145556.png (PNG copy)>]
-<screenshot_2024-01-26-154109.png, id=666, 447.6725pt x 541.02126pt>
+<screenshot_2024-01-26-154109.png, id=667, 447.6725pt x 541.02126pt>
 File: screenshot_2024-01-26-154109.png Graphic file (type png)
 <use screenshot_2024-01-26-154109.png>
-Package pdftex.def Info: screenshot_2024-01-26-154109.png  used on input line 1383.
+Package pdftex.def Info: screenshot_2024-01-26-154109.png  used on input line 1384.
 (pdftex.def)             Requested size: 266.3205pt x 321.85797pt.
  [43]
-<screenshot_2024-01-26-154432.png, id=672, 559.08875pt x 237.88875pt>
+<screenshot_2024-01-26-154432.png, id=673, 559.08875pt x 237.88875pt>
 File: screenshot_2024-01-26-154432.png Graphic file (type png)
 <use screenshot_2024-01-26-154432.png>
-Package pdftex.def Info: screenshot_2024-01-26-154432.png  used on input line 1391.
+Package pdftex.def Info: screenshot_2024-01-26-154432.png  used on input line 1392.
 (pdftex.def)             Requested size: 266.3205pt x 113.32138pt.
  [44 <./screenshot_2024-01-26-154109.png (PNG copy)> <./screenshot_2024-01-26-154432.png (PNG copy)>] [45] [46]
-<screenshot_2024-01-27-141853.png, id=685, 845.1575pt x 473.77pt>
+<screenshot_2024-01-27-141853.png, id=686, 845.1575pt x 473.77pt>
 File: screenshot_2024-01-27-141853.png Graphic file (type png)
 <use screenshot_2024-01-27-141853.png>
-Package pdftex.def Info: screenshot_2024-01-27-141853.png  used on input line 1526.
+Package pdftex.def Info: screenshot_2024-01-27-141853.png  used on input line 1527.
 (pdftex.def)             Requested size: 399.47397pt x 223.93703pt.
  [47]
-<screenshot_2024-01-27-142215.png, id=690, 643.40375pt x 646.415pt>
+<screenshot_2024-01-27-142215.png, id=691, 643.40375pt x 646.415pt>
 File: screenshot_2024-01-27-142215.png Graphic file (type png)
 <use screenshot_2024-01-27-142215.png>
-Package pdftex.def Info: screenshot_2024-01-27-142215.png  used on input line 1531.
+Package pdftex.def Info: screenshot_2024-01-27-142215.png  used on input line 1532.
 (pdftex.def)             Requested size: 266.3205pt x 267.57664pt.
  [48 <./screenshot_2024-01-27-141853.png (PNG copy)> <./screenshot_2024-01-27-142215.png (PNG copy)>]
-<screenshot_2024-01-27-143129.png, id=696, 426.59375pt x 415.5525pt>
+<screenshot_2024-01-27-143129.png, id=697, 426.59375pt x 415.5525pt>
 File: screenshot_2024-01-27-143129.png Graphic file (type png)
 <use screenshot_2024-01-27-143129.png>
-Package pdftex.def Info: screenshot_2024-01-27-143129.png  used on input line 1547.
+Package pdftex.def Info: screenshot_2024-01-27-143129.png  used on input line 1548.
 (pdftex.def)             Requested size: 266.3205pt x 259.44067pt.
-<screenshot_2024-01-27-143414.png, id=697, 375.4025pt x 368.37625pt>
+<screenshot_2024-01-27-143414.png, id=698, 375.4025pt x 368.37625pt>
 File: screenshot_2024-01-27-143414.png Graphic file (type png)
 <use screenshot_2024-01-27-143414.png>
-Package pdftex.def Info: screenshot_2024-01-27-143414.png  used on input line 1554.
+Package pdftex.def Info: screenshot_2024-01-27-143414.png  used on input line 1555.
 (pdftex.def)             Requested size: 266.3205pt x 261.35222pt.
  [49 <./screenshot_2024-01-27-143129.png (PNG copy)> <./screenshot_2024-01-27-143414.png (PNG copy)>] [50] [51]
-<screenshot_2024-01-28-133552.png, id=711, 394.47375pt x 386.44376pt>
+<screenshot_2024-01-28-133552.png, id=712, 394.47375pt x 386.44376pt>
 File: screenshot_2024-01-28-133552.png Graphic file (type png)
 <use screenshot_2024-01-28-133552.png>
-Package pdftex.def Info: screenshot_2024-01-28-133552.png  used on input line 1669.
+Package pdftex.def Info: screenshot_2024-01-28-133552.png  used on input line 1670.
 (pdftex.def)             Requested size: 133.16025pt x 130.44566pt.
  [52 <./screenshot_2024-01-28-133552.png (PNG copy)>] [53] [54] [55] (./zsm.aux)
 Package rerunfilecheck Info: File `zsm.out' has not changed.
 (rerunfilecheck)             Checksum: 3437D7C7F32816F22E0481E89010A061;11235.
  ) 
 Here is how much of TeX's memory you used:
- 11861 strings out of 477932
- 191505 string characters out of 5837865
+ 11862 strings out of 477932
+ 191515 string characters out of 5837865
  1870388 words of memory out of 5000000
  31710 multiletter control sequences out of 15000+600000
  528899 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  108i,12n,106p,286b,639s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1/public/starfont/strfnser.pfb>
-Output written on zsm.pdf (55 pages, 6493857 bytes).
+Output written on zsm.pdf (55 pages, 6494097 bytes).
 PDF statistics:
- 840 PDF objects out of 1000 (max. 8388607)
- 688 compressed objects within 7 object streams
- 154 named destinations out of 1000 (max. 500000)
+ 841 PDF objects out of 1000 (max. 8388607)
+ 689 compressed objects within 7 object streams
+ 155 named destinations out of 1000 (max. 500000)
  911 words of extra memory for PDF output out of 10000 (max. 10000000)
 
